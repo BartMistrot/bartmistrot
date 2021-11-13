@@ -2,7 +2,7 @@
 
 ## My name is [Bart][website] 👾
 
-## I'm a Pentester, Exploit Developer, Reverse Engineer, Creative, and US Air Force Veteran!!
+## I'm a Pentester, Exploit Developer, Reverse Engineer, Creative, and US Air Force Veteran
 
 - 👨🏻‍💻 I love to find cool novel ways to hack technology so I can make it do things it's not supposed to do.
 - 🧰 Reverse engineering both software and hardware is extremely fun (with hardware hacking being my favorite as I ❤️ my Xilinx Zynq Ultrascale+ FPGA 🔥)
