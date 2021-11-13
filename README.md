@@ -1,6 +1,6 @@
 ### Hello World!
 
-## My name is [Bart](www.bartmistrot.com) 👾
+## My name is [Bart][website] 👾
 
 ## I'm a Penetration Tester, Exploit Developer, Reverse Engineer, Creative, and US Air Force Veteran!!
 
@@ -51,5 +51,5 @@
 [youtube]: https://www.youtube.com/channel/UCWWekCzwswalMF5SPoV1ISw
 [instagram]: https://instagram.com/bartmistrot
 [linkedin]: https://linkedin.com/in/bartmistrot
-[achievmentOne]: https://www.grandforks.af.mil/News/Article/226816/grand-forks-afb-scores-another-excellent-rating/
-[achievmentTwo]: https://www.amc.af.mil/News/Photos/igphoto/2000892624/
+[achievementOne]: https://www.grandforks.af.mil/News/Article/226816/grand-forks-afb-scores-another-excellent-rating/
+[achievementTwo]: https://www.amc.af.mil/News/Photos/igphoto/2000892624/
