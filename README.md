@@ -12,7 +12,7 @@
 - 🕵️ Avid cybersecurity researcher always looking for the latest underground and bleeding edge methods
 - 🙋‍♂️ I’m always down to collaborate with others
 - 🎨 I do also love working on creative projects from music to photography, traditional and digital art, animation, etc. 
-- 🎖️ Fun fact: I served in the United States Air Force and got to do a [bunch][achievementOne] of cool [things][achievementTwo] 🛫
+- 🎖️ Fun fact: I served in the United States Air Force and got to do a [bunch][achievementOne] of [cool][achievementTwo] and interesting [things][achievementThree] 🛫
 
 ---
 
@@ -56,5 +56,6 @@
 [youtube]: https://www.youtube.com/channel/UCWWekCzwswalMF5SPoV1ISw
 [instagram]: https://instagram.com/bartmistrot
 [linkedin]: https://linkedin.com/in/bartmistrot
-[achievementOne]: https://www.grandforks.af.mil/News/Article/226816/grand-forks-afb-scores-another-excellent-rating/
+[achievementOne]: https://drive.google.com/file/d/1w10S7IBPHfxGqcKJN3LAAUTsykflZGpQ/view
 [achievementTwo]: https://www.amc.af.mil/News/Photos/igphoto/2000892624/
+[achievementThree]: https://www.grandforks.af.mil/News/Article/226816/grand-forks-afb-scores-another-excellent-rating/
