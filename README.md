@@ -1,8 +1,8 @@
-### Hello World!
+## Hello World!
 
 ## My name is [Bart][website] 👾
 
-# I am a cybersecurity researcher that specializes in reverse engineering and exploit development with a career focus as a penetration tester.
+### I am a cybersecurity researcher that specializes in reverse engineering and exploit development with a career focus as a penetration tester.
 
 - 👨🏻‍💻 I love to find cool novel ways to hack technology so I can make it do things it's not supposed to do.
 - 🧰 In my free time I find reverse engineering both software and hardware extremely fun 
@@ -14,7 +14,10 @@
 - 🎨 I do also love working on creative projects from music to photography, traditional and digital art, animation, etc. 
 - 🎖️ Fun fact: I served in the United States Air Force and got to do a [bunch][achievementOne] of cool [things][achievementTwo] 🛫
 
-### Connect with me:
+---
+
+
+### Connect with me here:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -22,8 +25,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
+
+<br/>
+<br/>
 
 ---
 
