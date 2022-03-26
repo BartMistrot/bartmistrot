@@ -2,7 +2,7 @@
 
 ## My name is [Bart][website] 👾
 
-## I am a cybersecurity researcher that specializes in reverse engineering and exploit development with a career focus as a penetration tester.
+# I am a cybersecurity researcher that specializes in reverse engineering and exploit development with a career focus as a penetration tester.
 
 - 👨🏻‍💻 I love to find cool novel ways to hack technology so I can make it do things it's not supposed to do.
 - 🧰 In my free time I find reverse engineering both software and hardware extremely fun 
