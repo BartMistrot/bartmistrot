@@ -12,7 +12,7 @@
 - 🕵️ Avid cybersecurity researcher always looking for the latest underground and bleeding edge methods
 - 🙋‍♂️ I’m always down to collaborate with others
 - 🎨 I do also love working on creative projects from music to photography, traditional and digital art, animation, etc. 
-- 🎖️ Fun fact: I served in the United States Air Force and got to do a [bunch][achievementOne] of [cool][achievementTwo] and interesting [things][achievementThree] 🛫
+- 🎖️ Fun fact: I served in the United States Air Force and discovered a signifigant security [vulnerability][achievementOne] in the USAF's radar system. I also got to do a bunch of [cool][achievementTwo] and interesting [things][achievementThree]. 🛫 
 
 ---
 
