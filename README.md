@@ -6,7 +6,6 @@
 
 - 👨🏻‍💻 I love to find cool novel ways to hack technology so I can make it do things it's not supposed to do.
 - 🧰 In my free time I find reverse engineering both software and hardware extremely fun 
-(with hardware hacking being my favorite as I ❤️ my Xilinx Zynq Ultrascale+ FPGA 🔥)
 - ☠️ Exploit development is one of my favorite personal pastimes
 - 📚 Perpetual student always trying to learn something new 
 - 🕵️ Avid cybersecurity researcher always looking for the latest underground and bleeding edge methods
