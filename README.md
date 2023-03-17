@@ -1,4 +1,4 @@
-## Hello World!
+## Hello!
 
 ## My name is [Bart][website] 👾
 
