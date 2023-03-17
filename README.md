@@ -4,7 +4,7 @@
 
 ### I am a cybersecurity researcher that specializes in reverse engineering and exploit development with a career focus as a penetration tester.
 
-- 👨🏻‍💻 I love to find cool novel ways to hack technology so I can make it do things it's not supposed to do.
+- 👨🏻‍💻 I love to experiment with novel ways to exploit technology
 - 🧰 In my free time I find reverse engineering both software and hardware extremely fun 
 - ☠️ Exploit development is one of my favorite personal pastimes
 - 📚 Perpetual student always trying to learn something new 
