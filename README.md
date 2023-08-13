@@ -36,7 +36,7 @@
 - Coming Soon!
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCWWekCzwswalMF5SPoV1ISw)
+➡️ [more videos...](https://www.youtube.com/@BartMistrot)
 
 ---
 
